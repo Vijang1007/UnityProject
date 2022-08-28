@@ -17,7 +17,7 @@ public class RouletteController : MonoBehaviour
     void Update()
     {
        //클릭하면 회전 한다.
-       if(Input.GetMouseButtonDown(0))
+       if(Input.GetMouseButton(0))
         {
             rotSpeed = 10;
             end = true;
