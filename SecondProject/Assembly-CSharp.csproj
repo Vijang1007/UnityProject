@@ -57,9 +57,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Chapter5\Script\JumpPlayerController.cs" />
-    <Compile Include="Assets\Chapter5\Script\JumpArrowController.cs" />
-    <Compile Include="Assets\Chapter5\Script\JumpArrowGenerator.cs" />
     <Compile Include="Assets\Chapter5\Script\GameManager.cs" />
+    <Compile Include="Assets\Chapter5\Script\JumpArrowGenerator.cs" />
+    <Compile Include="Assets\Chapter5\Script\JumpArrowController.cs" />
+    <Compile Include="Assets\Chapter6\Script\CatPlayerController.cs" />
+    <Compile Include="Assets\Chapter6\Script\CameraController.cs" />
+    <Compile Include="Assets\Chapter6\Script\CatGameManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
